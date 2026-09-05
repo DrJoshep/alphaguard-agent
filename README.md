@@ -1,2 +1,3 @@
-# alphaguard-agent
-AI-powered crypto portfolio intelligence agent built for Binance Agent OS
+# Assets
+
+Put the final demo screenshot and hackathon video thumbnail here before submission.
